@@ -8,6 +8,7 @@ namespace DotNetSummer2016.Controllers
 {
     public class HomeController : Controller
     {
+        /*  a comment */
         public ActionResult Index()
         {
             return View();
